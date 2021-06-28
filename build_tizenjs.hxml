@@ -1,0 +1,4 @@
+--class-path src
+--dce std
+tizenjs.Tizen
+--js bin/hxtizen.js

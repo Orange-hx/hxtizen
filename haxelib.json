@@ -1,0 +1,12 @@
+{
+    "name"         : "hxtizen",
+    "url"          : "https://github.com/Rabios/hxtizen",
+    "license"      : "Public",
+    "tags"         : [ "javascript", "js", "tizen", "externs", "sdk" ],
+    "description"  : "Haxe externs for Tizen Web API!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of the Wrath!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
